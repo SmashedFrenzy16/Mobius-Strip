@@ -6,4 +6,5 @@ This is a Möbius strip plotted in a 3D space using the matplotlib (`pip install
 
 ## Run
 
-- Run `python3 mobius_strip.py` in a terminal if you have Mac/Linuz.
+- Run `python3 mobius_strip.py` in a terminal if you have Mac/Linux.
+- Run `python mobius_strip.py` in a terminal if you have Windows.
